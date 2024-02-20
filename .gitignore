@@ -35,6 +35,7 @@ var/
 *.egg/
 docker/
 DockerFile.*
+resources/
 
 # Installer logs
 pip-log.txt
