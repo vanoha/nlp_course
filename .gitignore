@@ -33,6 +33,8 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg/
+docker/
+DockerFile.*
 
 # Installer logs
 pip-log.txt
