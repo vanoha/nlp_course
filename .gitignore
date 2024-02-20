@@ -36,6 +36,14 @@ var/
 docker/
 DockerFile.*
 resources/
+week02/
+week03/
+week04/
+week05/
+week06/
+week07/
+week08/
+week09/
 
 # Installer logs
 pip-log.txt
